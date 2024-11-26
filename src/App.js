@@ -9,6 +9,8 @@ export const App = () => {
 			<i className="fa fa-bath" aria-hidden="true"></i>
 			<div>dasdsa</div>
 			<Div>dsadsa</Div>
+			<Div>dsadsa</Div>
+			<Div>dsadsa</Div>
 		</div>
 	);
 };
